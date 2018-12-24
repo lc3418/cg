@@ -1,0 +1,1 @@
+Everything in the menu bar works except for the Find Curve function.
